@@ -23,7 +23,7 @@ REST API for project and team management.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/projects_api.git
+    git clone https://github.com/lukasz-cz/projects_api.git
     cd projects_api
     ```
 
